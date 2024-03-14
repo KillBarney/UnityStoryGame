@@ -11,3 +11,6 @@ Window 10 Pro
 
 ## 2D 이미지 정보
 노벨AI
+
+## 게임 플레이 영상
+https://www.youtube.com/watch?v=n1VACXKPH_Q
